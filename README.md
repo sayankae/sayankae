@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/p__/images/2/27/Saitama.png/revision/latest/scale-to-width-down/664?cb=20200701024620&path-prefix=protagonist" width="35" title="hover text">
+  <img src="https://static.wikia.nocookie.net/p__/images/2/27/Saitama.png/revision/latest/scale-to-width-down/664?cb=20200701024620&path-prefix=protagonist" width="100" title="hover text">
 </p>
 
 - 👋 Hi, I’m @sayankae AKA Sayan Kumar Muhuri
