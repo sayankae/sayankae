@@ -4,7 +4,7 @@
 - 📫 You can send me text on LinkedIn (soon link will be given)
 
 <p align="center">
-  <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F58582c01f034562c582205ff.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Fmemes%2Fsaitama-ok%2Fone-punch-man-saitama-ok-color&tbnid=OuHd3jnXWuiFAM&vet=12ahUKEwiuyceklM3vAhVDp0sFHe0pA4QQMygPegUIARDjAQ..i&docid=3DPszwN0lRWnnM&w=2640&h=2200&q=Saitama%20png&ved=2ahUKEwiuyceklM3vAhVDp0sFHe0pA4QQMygPegUIARDjAQ" width="350" title="hover text">
+  <img src="https://static.wikia.nocookie.net/p__/images/2/27/Saitama.png/revision/latest/scale-to-width-down/664?cb=20200701024620&path-prefix=protagonist" width="350" title="hover text">
 </p>
 
 <!---
