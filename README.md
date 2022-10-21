@@ -13,6 +13,29 @@
 
 - ⚡ Fun fact **I am good at making memes**
 
+<div style="height: 200px;
+  width: 500px;
+  background-image: url(https://media.istockphoto.com/photos/old-school-chalkboard-picture-id547016978?b=1&k=20&m=547016978&s=170667a&w=0&h=CFpK3c30n2dD059xLC0PxngaX1wMn2Aa5erw9M0ub3s=);
+  position: relative;
+  position: absolute;
+  right: 100px;
+  "
+>
+	<h3 style="
+    text-align: center; 
+    color:white;
+    ">Currently Learning and Projects</h3>
+    <p1 style="text-align: center; 
+    color:white;
+    ">- Dart Basic Level</p1><br>
+    <p1 style="text-align: center; 
+    color:white;
+    ">- App Development using Flutter</p1><br>
+    <p1 style="text-align: center; 
+    color:white;
+    ">- Competetive Programming (Reached 2 star on Codechef)</p1>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/(<coolronti>/sayankumarmuhuri)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<coolronti>/sayankumarmuhuri)" height="30" width="40" /></a>
