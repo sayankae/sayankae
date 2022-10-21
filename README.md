@@ -33,7 +33,7 @@
     ">- App Development using Flutter</p1><br>
     <p1 style="text-align: center; 
     color:white;
-    ">- Competetive Programming (Reached 2 star on Codechef)</p1>
+    ">- competitive Programming (Reached 2 star on Codechef)</p1>
 </div>
 
 <h3 align="left">Connect with me:</h3>
