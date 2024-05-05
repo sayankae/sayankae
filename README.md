@@ -27,13 +27,13 @@
     ">Currently Learning and Projects</h3>
     <p1 style="text-align: center; 
     color:white;
-    ">- Dart Basic Level</p1><br>
+    ">- Java Advance Level</p1><br>
     <p1 style="text-align: center; 
     color:white;
-    ">- App Development using Flutter</p1><br>
+    ">- Data Structure and Algorithm Advance Level</p1><br>
     <p1 style="text-align: center; 
     color:white;
-    ">- competitive Programming (Reached 2 star on Codechef)</p1>
+    ">- Competitive Programming (Reached 2 star on Code chef)</p1>
 </div>
 
 <h3 align="left">Connect with me:</h3>
